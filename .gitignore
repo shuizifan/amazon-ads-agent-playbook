@@ -1,0 +1,9 @@
+# 仅跟踪文档入口、知识模块和执行手册
+*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/knowledge/
+!/knowledge/*.md
+!/sop/
+!/sop/managed-ads.md
